@@ -1,4 +1,4 @@
-# Projects
+# Proyects
 
 Hello!
 
